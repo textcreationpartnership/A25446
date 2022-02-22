@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the manner, behaviour and execution of Mary Aubry, who was burnt to ashes, in Leicester Fields, on Friday the 2d day of March, 1687 for the barbarous and inhumane murther, committed on the body of Dennis Aubry, her husband, in the parish of St. Martins in the Fields, on the 27th of January last. And the same day, Daniel Sconley was executed at Tyburn</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25446</idno>
+            <idno type="STC">Wing A319D</idno>
+            <idno type="STC">ESTC R213070</idno>
+            <idno type="EEBO-CITATION">99825583</idno>
+            <idno type="PROQUEST">99825583</idno>
+            <idno type="VID">29969</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29969)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1802:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the manner, behaviour and execution of Mary Aubry, who was burnt to ashes, in Leicester Fields, on Friday the 2d day of March, 1687 for the barbarous and inhumane murther, committed on the body of Dennis Aubry, her husband, in the parish of St. Martins in the Fields, on the 27th of January last. And the same day, Daniel Sconley was executed at Tyburn</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by D. Mallet, next door to the sign of the Star between Fleet Bridge and Bridewell Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aubry, Mary, d. 1687.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:29969:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT Of the Manner, BEHAVIOUR AND EXECUTION OF Mary Aubry, Who was Burnt to Aſhes, in Leiceſter Fields, On <hi>Friday</hi> the 2d Day of <hi>March,</hi> 1687. For the Bar<g ref="char:EOLhyphen"/>barous and Inhumane Murther, Committed on the Body of Dennis Aubry, Her Husband, in the Pariſh of St. <hi>Martins</hi> in the Fields, on the 27th of <hi>January</hi> laſt.</head>
+            <head>And the ſame Day, <hi>Daniel Sconley</hi> was Executed at <hi>Tyburn.</hi>
+            </head>
+            <p>THe late ſurprizing Murther of <hi>Dennis Aubry,</hi> the perſon whoſe Body was found in <hi>Parkers-Lane,</hi> his Arms, Legs, <hi>&amp;c.</hi> in the <hi>Savoy</hi> Houſe of Office, and his Head in another, near <hi>Exeter Exchange;</hi> upon ſtrict inquiry, being known to be done, and committed by <hi>Mary Aubry</hi> his Wife, a <hi>French</hi> Wo<g ref="char:EOLhyphen"/>man; ſhe upon her Examination having confeſſed the Fact, <hi>viz.</hi> That ſhe bereived him of Life, by ſtrangling him with a Cord, <hi>&amp;c.</hi> and Cut him in Pieces, for the more private and convenient diſpoſal of him, thereby to prevent diſcovery, ſhe was there<g ref="char:EOLhyphen"/>upon Committed to Priſon, where not without ſome Regret, which appeared by her upon Committed to Priſon, where not without ſome Regret, which appeared by her much deiected Countenance and Behaviour: She continued till the Seſſions, Holden for the City of <hi>London</hi> and County of <hi>Middleſex, &amp;c.</hi> Began at the Seſſions Houſe in
+<pb facs="tcp:29969:2"/>the <hi>Old B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y,</hi> whether being brought, in order to be Tryed for that Barbarous Mur<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was Read, wherein ſhe ſtood charged, for Murthering her ſaid <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, by Strangling, <hi>&amp;c.</hi> on the 27th of <hi>January, Anno,</hi> 1687. In the Pariſh of St. <hi>M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tins</hi> in the Fields; and having Notice at large, of what was contained therein, by her Interpreter; and being demanded whether ſhe was Guilty or not of the Fact, as laid in the ſaid Indictment: She pleaded Guilty to the Felony, Murther, and Petry Treaſon; yet, the Court was ſo favourable to tell her, that ſhe might, ſeeing it was a Caſe that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ndered her Dead in Law by her pleaſing Guilty, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>act that P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and put her ſelf upon the Country for her Tryal, if ſhe thought it <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or convenient; but ſhe ſtill perſiſting to plead Guilty, her Confeſſion was Recorded<g ref="char:punc">▪</g> And in the cloſe of the Seſſions, ſhe was brought to receive Sentance of Death, as in that Caſe the Law re<g ref="char:EOLhyphen"/>quires, which was accordingly pronounced by the Court, <hi>viz. That ſhe ſhe ſaid</hi> Mary A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bry, <hi>ſhould be carried from thence, to the place from whence ſhe came, and thence to be drawn to the place of Execution, and there to be burnt with Fire till ſhe be Dead.</hi>
+            </p>
+            <p>Sentance being paſt, ſhe was reconveyed to the County Goal of <hi>Newgate,</hi> there to attend the time of the ſaid Sentance being put in Execution, appearing much afflicted under the ſenſe of ſo great a Crime, affecting for the moſt part retiredneſs and avoi<g ref="char:EOLhyphen"/>ding as much as in her lay, the concourſe or company of ſuch, eſpecially, whom ſhe conceived came only out of curioſity to ſee her, and ſo continued to indulge her ſelf ra<g ref="char:EOLhyphen"/>ther in Melancholineſs than any thing that was apparent to the contrary, both before and after ſhe was ſenſible the Warrant was ſigned for her Execution.</p>
+            <p>On <hi>Friday</hi> the 2d of <hi>March,</hi> the Day appointed for her being Burnt, <hi>&amp;c.</hi> about Ten in the Morning of the ſaid Day, the Sheriffs Officers came to demand her in or<g ref="char:EOLhyphen"/>der to carry her to <hi>Leiceſter Fields,</hi> the place where ſhe ſuffered. When being put into the Sledg, ſhe was with a Guard of Sheriffs Men, drawn to <hi>Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceſter Fields,</hi> where a Stake was ſet up towards the North ſide of the <hi>Square,</hi> and the Wood, <hi>&amp;c.</hi> according<g ref="char:EOLhyphen"/>ly prepared to perform the Execution, when about half an hour paſt Ten, ſhe arri<g ref="char:EOLhyphen"/>ved to the place appointed, appearing very Penitent, often liſting up her Hands and Eyes to Heaven, ſeeming to expreſs much ſorrow for the Crime that had been the occaſion of this her ſhameful End, and then prayed to her ſelf; and after that, held ſome Diſcourſe or Conference with a certain Perſon there atending when being taken out of the Slead, about half an hour after her arrival ſhe again having Expreſied much Sorrow in her manner of Cariage and Geſture as was Evident to the Specta<g ref="char:EOLhyphen"/>tors, ſhe was ſet upon a ſtool prepared for that purpoſe; and a Rope being faſtened through a Hole of the Poſt, or Stake, and the Nooſe of it put over her Neck; the ſtool being taken away, ſhe hung there for near the ſpace of a quarter of an Hour, in which time, the Bavins and Faggots where Piled about her, and at the Expiration thereof, Fire ſet to them, which conſumed her in about half an hour more to Aſhes, <hi>&amp;c.</hi>
+            </p>
+            <p>About three hours before this Execution, one <hi>Daniel Stonley;</hi> who was condem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the laſt ſeſſions, for Robing <hi>Anthony Shackliffe</hi> a Brewer, of a conſiderable ſu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Mony, was caried to <hi>Tyburn,</hi> and there Executed.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>This may be Printed,</hi>
+                  </p>
+                  <closer>
+                     <signed>R P</signed>
+                     <dateline>
+                        <date>
+                           <hi>March the</hi> 2d 1687.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON; <hi>Printed by</hi> D Mallet, <hi>next Door to the ſign of the</hi> Star<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>between</hi> Fleet Bridge <hi>and</hi> Bridewell Bridge.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
